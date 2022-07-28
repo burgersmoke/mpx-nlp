@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "concept_tagger": [
+        "monkeypox_concept_tag_rules.json"
+      ],
+      "target_matcher": [
+        "monkeypox_target_rules.json",
+        "health department_target_rules.json"
+      ],
+      "context": [
+        "monkeypox_context_rules.json"
+      ],
+      "sectionizer": [
+        "medspacy_section_rules.json"
+      ]
+    }
+  ]
+}

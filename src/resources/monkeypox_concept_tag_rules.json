@@ -1,0 +1,19 @@
+{
+    "target_rules": [
+        {
+            "pattern": [
+                {
+                    "LOWER": "monkeypox"
+                },
+                {
+                    "LOWER": "virus",
+                    "OP": "?"
+                }
+            ],
+            "literal": "",
+            "attributes": null,
+            "metadata": null,
+            "category": "monkeypox"
+        }
+    ]
+}

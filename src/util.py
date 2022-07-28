@@ -54,6 +54,10 @@ def build_nlp(model=None, cfg_file=None, resources_dir=None,
         nlp = medspacy.load(enable=medspacy_components)
     else:
         nlp = medspacy.load(model, enable=medspacy_components)
+
+    # For this pipeline we also want to add a ConceptTagger...
+    nlp.add_pipe("medspacy_concept_tagger", before = "medspacy_target_matcher")
+
     nlp = add_rules_from_cfg(nlp, cfg_file, resources_dir)
 
     if doc_consumer:
@@ -87,7 +91,8 @@ def add_rules_from_cfg(nlp, cfg_file=None, resources_dir=None):
 
 def load_rules_from_cfg(cfg_file=None, resources_dir=None):
     if cfg_file is None:
-        cfg_file = os.path.join(RESOURCES_FOLDER, "config.json")
+        # Use this instead of the demo config...
+        cfg_file = os.path.join(RESOURCES_FOLDER, "monkeypox_and_id_concern.json")
     cfg = load_cfg_file(cfg_file)
     if resources_dir is None:
         resources_dir = RESOURCES_FOLDER
