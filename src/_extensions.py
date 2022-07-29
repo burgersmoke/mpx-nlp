@@ -61,7 +61,22 @@ _span_extensions = {
     "is_ignored": {"default": False},
     "is_asserted": {"getter": get_asserted},
     "snippet": {"getter": get_snippet},
-    "literal": {"getter": get_literal}
+    "literal": {"getter": get_literal},
+    "unspecified_test": {"default": False},
+    "antigen": {"default": False},
+    "home_test": {"default": False},
+    "pcr": {"default": False},
+    "hf": {"default": False},
+    "is_future_hypothetical": {"default": False},
+    "is_current": {"default": True},
+    "is_positive": {"default": False},
+    "is_relevant": {"default": True},
+    "is_negated": {"default": False},
+    "certainty": {"default": "certain"},
+    "is_uncertain": {"default": False},
+    "is_experiencer": {"default": True},
+    "is_experienced": {"default": True},
+    "is_communicated": {"default": False},
 }
 
 _doc_extensions = {

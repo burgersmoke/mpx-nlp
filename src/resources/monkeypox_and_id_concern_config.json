@@ -2,7 +2,8 @@
   "resources": [
     {
       "concept_tagger": [
-        "monkeypox_concept_tag_rules.json"
+        "monkeypox_concept_tag_rules.json",
+        "positive_concept_tag_rules.json"
       ],
       "target_matcher": [
         "monkeypox_target_rules.json",

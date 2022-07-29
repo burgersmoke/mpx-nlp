@@ -1,0 +1,89 @@
+{
+    "target_rules": [
+        {
+            "pattern": [
+                {
+                    "LOWER": {
+                        "REGEX": "\\+$"
+                    }
+                }
+            ],
+            "literal": "+",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "(+)",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "+ve",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "+ ve",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "positive",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "positvie",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "active",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": null,
+            "literal": "confirmed",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        },
+        {
+            "pattern": [
+                {
+                    "LOWER": "results"
+                },
+                {
+                    "LEMMA": "be",
+                    "OP": "?"
+                },
+                {
+                    "LOWER": {
+                        "IN": [
+                            "pos",
+                            "positive"
+                        ]
+                    }
+                }
+            ],
+            "literal": "results positive",
+            "attributes": null,
+            "metadata": null,
+            "category": "positive"
+        }
+    ]
+}

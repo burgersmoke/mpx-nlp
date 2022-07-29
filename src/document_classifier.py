@@ -22,7 +22,7 @@ class DocumentClassifier:
 
     def _classify_document(self, doc, **kwargs):
         for ent in doc.ents:
-            if ent.label_ == "PNEUMONIA" and ent._.is_asserted:
+            if ent.label_ == "MONKEYPOX" and ent._.is_asserted:
                 if self.debug:
                     print("Found asserted entity:", ent)
                 return "POS"
