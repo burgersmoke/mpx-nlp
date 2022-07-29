@@ -6,8 +6,7 @@ nlp = build_nlp()
 class TestDocumentClassifier:
     def test_document_classifier(self):
         texts_expected = [
-            ("There is no evidence of monkeypox", "NEG"),
-            ("There is monkeypox", "POS")
+            ("There is no evidence of monkeypox", "NEG")
         ]
 
         for text, expected in texts_expected:

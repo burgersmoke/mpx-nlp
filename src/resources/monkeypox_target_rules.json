@@ -3,7 +3,7 @@
         {
             "literal": "<monkeypox>",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -19,7 +19,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -45,7 +45,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -105,7 +105,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -141,7 +141,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -167,7 +167,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -209,7 +209,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -241,7 +241,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -408,7 +408,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -442,7 +442,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -471,7 +471,7 @@
         {
             "literal": "post-covid condition",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -504,7 +504,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -543,7 +543,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -576,7 +576,7 @@
             "attributes": {
                 "certainty": "medium"
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -597,7 +597,7 @@
             "attributes": {
                 "certainty": "medium"
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -624,7 +624,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -653,7 +653,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -681,7 +681,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -714,7 +714,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -733,7 +733,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -765,7 +765,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -800,7 +800,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -839,7 +839,7 @@
         {
             "literal": "diagnosis: <COVID> test",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -884,7 +884,7 @@
             "attributes": {
                 "is_uncertain": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -928,7 +928,7 @@
             "attributes": {
                 "is_uncertain": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -945,7 +945,7 @@
         {
             "literal": "COVID-19 PUI",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -968,7 +968,7 @@
         {
             "literal": "diagnosis: <COVID> testing",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1000,7 +1000,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1038,7 +1038,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1070,7 +1070,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1099,7 +1099,7 @@
             "attributes": {
                 "is_positive": false
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1133,7 +1133,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1159,7 +1159,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1184,7 +1184,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1212,7 +1212,7 @@
             "attributes": {
                 "is_positive": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1239,7 +1239,7 @@
         {
             "literal": "<monkeypox> infection",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1262,7 +1262,7 @@
             "attributes": {
                 "certainty": "medium"
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1284,7 +1284,7 @@
             "attributes": {
                 "is_experienced": false
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1310,7 +1310,7 @@
         {
             "literal": "<monkeypox> <POSITIVE> unit",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1338,7 +1338,7 @@
         {
             "literal": "<POSITIVE> <monkeypox> unit",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1388,7 +1388,7 @@
         {
             "literal": "<POSITIVE> <monkeypox> exposure",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1416,7 +1416,7 @@
         {
             "literal": "known <monkeypox> exposure",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1455,7 +1455,7 @@
         {
             "literal": "[{'LOWER': 'u07.1'}]",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1466,7 +1466,7 @@
         {
             "literal": "Number of days into COVID-19 illness: <X>",
             "attributes": null,
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1508,7 +1508,7 @@
                 "antigen": true,
                 "hf": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": "There[\\s+]is[\\s+]a[\\s+]written/verified[\\s+]report[\\s+]of[\\s+]a[\\s+]Positive[\\s+]COVID-19[\\s+]Non-PCR[\\s+]Antigen[\\s+]Lab[\\s+]test[\\s+]done[\\s+]at[\\s+]a[\\s+]location[\\s+]other[\\s+]than[\\s+]this[\\s+]VA"
         },
@@ -1519,7 +1519,7 @@
                 "pcr": true,
                 "hf": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": "There[\\s+]is[\\s+]a[\\s+]written/verified[\\s+]report[\\s+]of[\\s+]a[\\s+]Positive[\\s+]COVID-19[\\s+]PCR[\\s+]Lab[\\s+]test[\\s+]done[\\s+]at[\\s+]a[\\s+]location[\\s+]other[\\s+]than[\\s+]this[\\s+]VA"
         },
@@ -1530,7 +1530,7 @@
                 "antigen": true,
                 "hf": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": "Patient[\\s+]reports[\\s+]that[\\s+]they[\\s+]had[\\s+]a[\\s+]Positive[\\s+]COVID-19[\\s+]Non-PCR[\\s+]Antigen[\\s+]Lab[\\s+]test[\\s+]done[\\s+]at[\\s+]a[\\s+]location[\\s+]other[\\s+]than[\\s+]this[\\s+]VA\\."
         },
@@ -1541,7 +1541,7 @@
                 "pcr": true,
                 "hf": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": "Patient[\\s+]reports[\\s+]that[\\s+]they[\\s+]had[\\s+]a[\\s+]Positive[\\s+]COVID-19[\\s+]PCR[\\s+]Lab[\\s+]test[\\s+]done[\\s+]at[\\s+]a[\\s+]location[\\s+]other[\\s+]than[\\s+]this[\\s+]VA"
         },
@@ -1550,7 +1550,7 @@
             "attributes": {
                 "home_test": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
@@ -1577,7 +1577,7 @@
             "attributes": {
                 "home_test": true
             },
-            "category": "monkeypox",
+            "category": "MONKEYPOX",
             "metadata": null,
             "pattern": [
                 {
