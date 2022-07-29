@@ -2,8 +2,30 @@
     "target_rules": [
         {
             "pattern": [
+                {"LOWER":
+                    {"IN": ["monkeypox", "mpx", "monkey-pox"]}
+                },
                 {
-                    "LOWER": "monkeypox"
+                    "LOWER": "virus",
+                    "OP": "?"
+                }
+            ],
+            "literal": "",
+            "attributes": null,
+            "metadata": null,
+            "category": "MONKEYPOX"
+        },
+        {
+            "pattern": [
+                {"LOWER":
+                    {"IN": ["monkey"]}
+                },
+                {
+                    "LOWER": "-",
+                    "OP": "?"
+                },
+                {"LOWER":
+                    {"IN": ["pox", "proximal"]}
                 },
                 {
                     "LOWER": "virus",

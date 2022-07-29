@@ -5,7 +5,7 @@ nlp = build_nlp()
 
 class TestTargetRules:
     def test_monkeypox(self):
-        texts = ["monkeypox virus"]
+        texts = ["monkeypox virus", "mpx virus", "monkey pox", "monkey proximal", "monkey-pox"]
         docs = list(nlp.pipe(texts))
         for doc in docs:
             assert len(doc.ents) == 1
