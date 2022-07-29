@@ -12,7 +12,7 @@
         "monkeypox_context_rules.json"
       ],
       "sectionizer": [
-        "medspacy_section_rules.json"
+        "medspacy_section_patterns.json"
       ]
     }
   ]
